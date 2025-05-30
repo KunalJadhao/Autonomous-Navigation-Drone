@@ -47,7 +47,7 @@ autonomous-drone-phase1/
 ## 🖼️ Model Preview
 
 ### Full Drone Assembly  
-[Drone CAD](https://raw.githubusercontent.com/KunalJadhao/Autonomous-Navigation-Drone/refs/heads/main/Drone%20Project/Drone.png)
+![Drone CAD](https://raw.githubusercontent.com/KunalJadhao/Autonomous-Navigation-Drone/refs/heads/main/Drone%20Project/Drone.png)
 
 ### Top View  
 ![Top View](https://raw.githubusercontent.com/KunalJadhao/Autonomous-Navigation-Drone/refs/heads/main/Drone%20Project/Topview.png)
